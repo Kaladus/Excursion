@@ -1,1 +1,40 @@
+/* Universal Styles */
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin: 8px;
+}
+
+/* Header Section */ 
+
+h1 {
+    display: block;
+    font-size: 50px;
+    margin: .67em 0;
+}
+
+p a {
+    display:block;
+    color: aquamarine;
+    font-size: 16px;
+    margin: 21px 0;
+}
+
+/* Travel Section */
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    margin: 1em 0;
+}
+
+.Travel {
+    font-size: 21px;
+    color: gray;
+    margin: 1em;
+}
 
