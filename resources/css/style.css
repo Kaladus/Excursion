@@ -21,7 +21,6 @@ p a {
     display:block;
     color: aquamarine;
     font-size: 16px;
-    margin: 21px 0;
 }
 
 /* Travel Section */
@@ -32,9 +31,20 @@ h2 {
     margin: 1em 0;
 }
 
-.Travel {
+p {
     font-size: 21px;
     color: gray;
-    margin: 1em;
+    margin: 1em 0;
 }
 
+#camp {
+    max-width: 896px;
+    max-height: 527px;
+    width: 100%;
+    height: auto;
+}
+
+footer p {
+    text-align: right;
+    color: gray;
+}
